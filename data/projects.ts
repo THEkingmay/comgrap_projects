@@ -19,6 +19,10 @@ const projects :project_struct[]= [
         title:'Modeling & Obj Loader ' , 
         description:'เรียนรุ้เรื่องการโหลดไฟล์ obj และการปั้นโมเดล',
         link:'https://thekingmay.github.io/comgraphic_objLoader/'
+    },{
+        title :'PBR',
+        description : 'Physical Base Rendering ' ,
+        link :'https://thekingmay.github.io/PRB/'
     }
 ]
 export default  projects
